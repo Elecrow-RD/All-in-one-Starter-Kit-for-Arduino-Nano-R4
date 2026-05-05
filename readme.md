@@ -40,7 +40,7 @@ Use the corresponding code in Lesson 8.
 | Power input           | 5V input charging                                      |
 | Shell material        | PP (non-toxic)                                         |
 | Size                  | 195\*170*46（mm）                                      |
-| Net Weight            | g                                                      |
+| Net Weight            | 415g                                                      |
 | Operating temperature | 0°C to 60°C                                            |
 | Storage temperature   | 0°C to 60°C                                            |
 
@@ -65,12 +65,14 @@ C:\Users\Documents\Arduino\libraries\
 
 
 
-2.Open the Arduino IDE
+2.Install the NANO R4 development board and open the program files
 
-
+<img width="431" height="424" alt="Arduino_NANO_R4-2" src="https://github.com/user-attachments/assets/f746a37b-eed5-49c6-8ed2-bb3b76686284" />
 
 
 3.Open the code configuration environment and burn it
+
+<img width="848" height="598" alt="Arduino_NANO_R4-4" src="https://github.com/user-attachments/assets/9e75a2bc-2c0c-403b-af7c-47aaf147e987" />
 
 
 
