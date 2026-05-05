@@ -15,15 +15,8 @@
 
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
-| 1    | V1.0     | V1.0     | old    |
-| 2    | V1.1     | V1.1     | latest |
-### Differences between versions:
+| 1    | V1.0     | V1.0     | latest |
 
-**V1.0**: This version uses a 360° servo.
-
-**V1.1**: This version uses a 180° servo.
-
-Use the corresponding code in Lesson 8.
 
 ### 3, product information
 
